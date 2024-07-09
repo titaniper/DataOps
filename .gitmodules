@@ -1,3 +1,12 @@
 [submodule "kafka"]
 	path = kafka
 	url = git@github.com:titaniper/kafka.git
+[submodule "mongo"]
+	path = mongo
+	url = git@github.com:titaniper/mongo.git
+[submodule "redis"]
+	path = redis
+	url = git@github.com:titaniper/redis.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = git@github.com:titaniper/elasticsearch.git
