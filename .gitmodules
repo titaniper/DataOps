@@ -10,3 +10,9 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
 	url = git@github.com:titaniper/elasticsearch.git
+[submodule "flink"]
+	path = flink
+	url = git@github.com:titaniper/flink.git
+[submodule "airflow"]
+	path = airflow
+	url = git@github.com:titaniper/airflow.git
