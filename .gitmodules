@@ -16,3 +16,6 @@
 [submodule "airflow"]
 	path = airflow
 	url = git@github.com:titaniper/airflow.git
+[submodule "spark"]
+	path = spark
+	url = git@github.com:titaniper/spark.git
